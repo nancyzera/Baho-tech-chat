@@ -1,9 +1,8 @@
 
   # Baho Tech Community Support Hub
 
-  This is a code bundle for Baho Tech Community Support Hub. The original project is available at https://www.figma.com/design/oTr04LKCr6eHBhTPPXp06F/Baho-Tech-Community-Support-Hub.
-
-  ## Running the code
+ this project is still underdevelopment
+ 
 
   Run `npm i` to install the dependencies.
 
